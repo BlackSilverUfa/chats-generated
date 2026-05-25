@@ -1,0 +1,118 @@
+[Script Info]
+PlayResX: 1280
+PlayResY: 720
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default, Arial, 18, 16777215, 16777215, 16777215, -3221225464, 0, 0, 1, 3, 0, 1, 5, 0, 5, 0, 0
+
+[Events]
+Format: Start, End, Style, Text
+Dialogue: 0:00:39.52, 0:00:41.55, Default, {\c&HFFFFFF&}AloxId{\c&HFFFFFF&}: :D
+Dialogue: 0:00:40.97, 0:00:43.01, Default, {\c&HFFFFFF&}klushka_abby{\c&HFFFFFF&}: LUL
+Dialogue: 0:00:41.76, 0:00:43.98, Default, {\c&HFFFFFF&}cha0s_13aby{\c&HFFFFFF&}: NotLikeThis x⁣3
+Dialogue: 0:00:42.39, 0:00:44.49, Default, {\c&HFF901E&}Goblin_Lilu{\c&HFFFFFF&}: LUL x⁣3
+Dialogue: 0:00:42.61, 0:00:44.74, Default, {\c&H7FFF00&}i_believe_in_unicorns{\c&HFFFFFF&}: пока пока
+Dialogue: 0:00:43.72, 0:00:45.76, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: эх)
+; Dialogue: 0:00:44.56, 0:00:47.67, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @miranda11902 -> Sometimes you scare me! [stop \Nspamming symbols] [warning]
+Dialogue: 0:00:45.98, 0:00:48.02, Default, {\c&HE22B8A&}Dr_JekylI{\c&HFFFFFF&}: LUL
+Dialogue: 0:00:46.08, 0:00:48.68, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: склеишь записи на твиче если их всего 3?
+Dialogue: 0:00:49.30, 0:00:51.48, Default, {\c&H008000&}Thel_Ru{\c&HFFFFFF&}: CoolStoryBob
+Dialogue: 0:00:49.58, 0:00:51.83, Default, {\c&HE22B8A&}EviI_Foxy{\c&HFFFFFF&}: NeedHeal GiveHeal
+Dialogue: 0:00:49.85, 0:00:52.19, Default, {\c&HFFFFFF&}ascended_mizrael{\c&HFFFFFF&}: NotLikeThis NotLikeThis
+Dialogue: 0:00:50.13, 0:00:52.23, Default, {\c&HFFFFFF&}clark2496{\c&HFFFFFF&}: Стоооой
+Dialogue: 0:00:50.66, 0:00:52.88, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+Dialogue: 0:00:51.67, 0:00:54.34, Default, {\c&HB469FF&}iamcatyoufish{\c&HFFFFFF&}: Глупые и некрасивые ушли можно продолжать LUL
+Dialogue: 0:00:51.69, 0:00:54.00, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: NeedHeal GiveHeal x⁣3
+Dialogue: 0:00:51.71, 0:00:54.13, Default, {\c&HFFFFFF&}AlexVee_tw{\c&HFFFFFF&}: MercyWing1 Squid3 MercyWing2
+Dialogue: 0:00:52.13, 0:00:54.23, Default, {\c&H32CD9A&}EriasK{\c&HFFFFFF&}: BSULoot
+Dialogue: 0:00:52.16, 0:00:54.49, Default, {\c&HE22B8A&}serenity_pl{\c&HFFFFFF&}: @BlackUFA  FeelsBadMan
+Dialogue: 0:00:52.51, 0:00:54.69, Default, {\c&H20A5DA&}dima_krusenstern{\c&HFFFFFF&}: пока ещё раз
+Dialogue: 0:00:52.88, 0:00:54.95, Default, {\c&H20A5DA&}backtoospace{\c&HFFFFFF&}: понял
+Dialogue: 0:00:53.21, 0:00:55.39, Default, {\c&H0000FF&}TryHardBrett{\c&HFFFFFF&}: ну Артуро...
+Dialogue: 0:00:53.40, 0:00:55.44, Default, {\c&H008000&}ELDIMARO{\c&HFFFFFF&}: LUL
+Dialogue: 0:00:56.00, 0:00:58.22, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
+Dialogue: 0:00:56.06, 0:00:58.79, Default, {\c&HFFFFFF&}kompotik____{\c&HFFFFFF&}: и теперь можно поиграть в башню? потестить \Nсервер
+Dialogue: 0:00:56.76, 0:00:59.01, Default, {\c&H008000&}avstraliets{\c&HFFFFFF&}: GayPride GayPride
+Dialogue: 0:00:56.80, 0:00:59.31, Default, {\c&H7FFF00&}lego_199{\c&HFFFFFF&}: Squid1 Squid2 Squid3 Squid2 Squid4
+Dialogue: 0:00:57.44, 0:00:59.56, Default, {\c&HE22B8A&}preliator13{\c&HFFFFFF&}: bufaSVCH
+Dialogue: 0:00:59.47, 0:01:01.54, Default, {\c&H7FFF00&}i_believe_in_unicorns{\c&HFFFFFF&}: ICANT
+Dialogue: 0:00:59.74, 0:01:01.95, Default, {\c&H008000&}sleeping_zzzzz{\c&HFFFFFF&}: TearGlove x⁣11
+Dialogue: 0:00:59.85, 0:01:02.18, Default, {\c&H008000&}Thel_Ru{\c&HFFFFFF&}: наговнил в душу и ушёл
+Dialogue: 0:01:00.28, 0:01:02.38, Default, {\c&H507FFF&}DedRasperdos{\c&HFFFFFF&}: bufaCSA
+Dialogue: 0:01:00.33, 0:01:02.61, Default, {\c&HE22B8A&}HeisYenberg{\c&HFFFFFF&}: нагрубил BigSad x⁣3
+Dialogue: 0:01:02.33, 0:01:04.37, Default, {\c&HE22B8A&}Matilda_Moria{\c&HFFFFFF&}: AUF
+Dialogue: 0:01:03.16, 0:01:05.25, Default, {\c&HFFFFFF&}clark2496{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:01:03.42, 0:01:06.57, Default, {\c&HFFFFFF&}shp1li_vili{\c&HFFFFFF&}: Мы все выиграли немного времени! Следующие 10 \Nмин требуют чего-то необычного!
+Dialogue: 0:01:04.37, 0:01:06.58, Default, {\c&HFF901E&}Amin_Lindar{\c&HFFFFFF&}: А када кукинг?
+Dialogue: 0:01:05.70, 0:01:07.92, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+; Dialogue: 0:01:06.04, 0:01:11.04, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Донат от 100 руб, озвучка с 444;  Разные \Nоповещения на 444, 500, 666, 777, 888, 1000, 1234 руб; 4221 \Nруб - великолепная песня от Аптипа; 6969 руб - Уничтожение \Nмозга чата песней Пипися ме, 8442 руб - ещё более \Nпроникновенная песня Аптипа; от 10000 рублей ВОТЭТРЫЛ
+Dialogue: 0:01:06.23, 0:01:08.50, Default, {\c&H20A5DA&}backtoospace{\c&HFFFFFF&}: Артур ты красавчик
+Dialogue: 0:01:08.08, 0:01:10.17, Default, {\c&HFFFFFF&}ivan_rikhter{\c&HFFFFFF&}: KEKLEO
+Dialogue: 0:01:08.33, 0:01:10.72, Default, {\c&H0000FF&}shelma121{\c&HFFFFFF&}: мы не можем друг без друга
+Dialogue: 0:01:09.70, 0:01:12.12, Default, {\c&HFFFFFF&}owlpafka{\c&HFFFFFF&}: стример не хочет нас бросать
+Dialogue: 0:01:10.35, 0:01:12.54, Default, {\c&HFF0000&}technotrancerby{\c&HFFFFFF&}: Взаимно, пока
+Dialogue: 0:01:10.75, 0:01:12.99, Default, {\c&HB469FF&}iamcatyoufish{\c&HFFFFFF&}: FeelsLoveMan x⁣3
+Dialogue: 0:01:11.88, 0:01:14.13, Default, {\c&HFFFFFF&}AloxId{\c&HFFFFFF&}: Расскажи как дела
+Dialogue: 0:01:13.42, 0:01:15.64, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
+Dialogue: 0:01:13.71, 0:01:16.10, Default, {\c&H7FFF00&}i_believe_in_unicorns{\c&HFFFFFF&}: так уходить или нет? Kappa
+Dialogue: 0:01:15.16, 0:01:17.25, Default, {\c&HE22B8A&}Dr_JekylI{\c&HFFFFFF&}: KEKLEO
+Dialogue: 0:01:20.83, 0:01:23.05, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+Dialogue: 0:01:21.23, 0:01:23.33, Default, {\c&HB469FF&}shustraya_lisichka{\c&HFFFFFF&}: eww x⁣3
+Dialogue: 0:01:21.97, 0:01:24.33, Default, {\c&H008000&}sleeping_zzzzz{\c&HFFFFFF&}: DinoDance x⁣10 PewPewPew
+Dialogue: 0:01:25.05, 0:01:27.45, Default, {\c&HFFFFFF&}AlexVee_tw{\c&HFFFFFF&}: "сегодня  твич..." (и упал)
+Dialogue: 0:01:25.30, 0:01:27.88, Default, {\c&H7FFF00&}solitla{\c&HFFFFFF&}: Я покаталась на эмоциональных каруселях
+Dialogue: 0:01:26.12, 0:01:28.34, Default, {\c&HFFFFFF&}ascended_mizrael{\c&HFFFFFF&}: NotLikeThis x⁣3
+Dialogue: 0:01:26.32, 0:01:28.71, Default, {\c&HE22B8A&}Asia_1308{\c&HFFFFFF&}: И снова, здравствуйте!!🍷🍷🍷
+Dialogue: 0:01:29.50, 0:01:31.59, Default, {\c&HFFFFFF&}11sole11{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:01:29.58, 0:01:31.68, Default, {\c&H32CD9A&}roomplace{\c&HFFFFFF&}: LUL x⁣4
+Dialogue: 0:01:30.53, 0:01:32.63, Default, {\c&H008000&}avstraliets{\c&HFFFFFF&}: LUL x⁣3
+Dialogue: 0:01:32.79, 0:01:35.01, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
+Dialogue: 0:01:33.21, 0:01:35.42, Default, {\c&HE22B8A&}serenity_pl{\c&HFFFFFF&}: мееееее ме x⁣3
+Dialogue: 0:01:34.73, 0:01:36.91, Default, {\c&HFFFFFF&}marga_fox{\c&HFFFFFF&}: Песню верни)
+Dialogue: 0:01:35.55, 0:01:37.71, Default, {\c&H008000&}bior_bobior{\c&HFFFFFF&}: NotLikeThis
+Dialogue: 0:01:37.58, 0:01:39.71, Default, {\c&HE22B8A&}EviI_Foxy{\c&HFFFFFF&}: это жесть
+Dialogue: 0:01:38.63, 0:01:40.78, Default, {\c&HFF901E&}Gone_Rain{\c&HFFFFFF&}: жестко чет
+Dialogue: 0:01:39.50, 0:01:41.66, Default, {\c&H008000&}Shershon{\c&HFFFFFF&}: Расходимся(
+Dialogue: 0:01:39.66, 0:01:41.73, Default, {\c&HFFFFFF&}flopayt90{\c&HFFFFFF&}: минус
+Dialogue: 0:01:39.73, 0:01:41.83, Default, {\c&H20A5DA&}backtoospace{\c&HFFFFFF&}: тотал ф
+Dialogue: 0:01:40.25, 0:01:42.41, Default, {\c&H008000&}Thel_Ru{\c&HFFFFFF&}: NotLikeThis
+Dialogue: 0:01:40.49, 0:01:42.59, Default, {\c&HE22B8A&}Rezofona{\c&HFFFFFF&}: LUL x⁣3
+Dialogue: 0:01:41.85, 0:01:44.22, Default, {\c&H008000&}OprAZM{\c&HFFFFFF&}: Артур, прости! я не хотел
+Dialogue: 0:01:42.52, 0:01:44.74, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+Dialogue: 0:01:44.06, 0:01:46.15, Default, {\c&H2222B2&}JennDi{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:01:45.25, 0:01:47.37, Default, {\c&H0045FF&}zhenka_zhmenkaa{\c&HFFFFFF&}: мде твич
+Dialogue: 0:01:48.03, 0:01:50.25, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
+Dialogue: 0:01:49.98, 0:01:52.08, Default, {\c&HE22B8A&}blackoren56{\c&HFFFFFF&}: LUL x⁣3
+Dialogue: 0:01:50.07, 0:01:52.25, Default, {\c&H0045FF&}lunarvar{\c&HFFFFFF&}: bufaLove x⁣4
+Dialogue: 0:01:51.33, 0:01:54.78, Default, {\c&H7FFF00&}solitla{\c&HFFFFFF&}: solitla watched 90 consecutive streams and sparked \Na watch streak! Чач, не болей. пиу пиу SipTime
+Dialogue: 0:01:52.05, 0:01:54.17, Default, {\c&HB469FF&}koshka_zhena_{\c&HFFFFFF&}: покасики
+Dialogue: 0:01:55.35, 0:01:57.60, Default, {\c&H0045FF&}zhenka_zhmenkaa{\c&HFFFFFF&}: пока <3 DinoDance
+Dialogue: 0:01:55.67, 0:01:57.80, Default, {\c&HFFFFFF&}renatikus_{\c&HFFFFFF&}: наглядно)
+Dialogue: 0:01:56.42, 0:01:58.64, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+Dialogue: 0:01:57.57, 0:01:59.66, Default, {\c&HA09E5F&}teal_black_sun{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:01:59.80, 0:02:02.01, Default, {\c&H008000&}sleeping_zzzzz{\c&HFFFFFF&}: TearGlove x⁣14
+Dialogue: 0:02:00.69, 0:02:02.91, Default, {\c&H0000FF&}Cavaletta_{\c&HFFFFFF&}: bleedPurple x⁣3
+Dialogue: 0:02:01.12, 0:02:03.22, Default, {\c&H008000&}Thel_Ru{\c&HFFFFFF&}: HeyGuys
+Dialogue: 0:02:03.43, 0:02:05.46, Default, {\c&HFF901E&}Gone_Rain{\c&HFFFFFF&}: o7
+Dialogue: 0:02:03.64, 0:02:05.95, Default, {\c&H7FFF00&}i_believe_in_unicorns{\c&HFFFFFF&}: NeedHeal GiveHeal x⁣3
+Dialogue: 0:02:05.10, 0:02:07.19, Default, {\c&H0000FF&}Cavaletta_{\c&HFFFFFF&}: VoHiYo
+Dialogue: 0:02:07.27, 0:02:09.54, Default, {\c&HFF901E&}igaryunya{\c&HFFFFFF&}: khvhunChewbaka x⁣3
+Dialogue: 0:02:07.68, 0:02:09.95, Default, {\c&H0045FF&}Ash_Di{\c&HFFFFFF&}: всем пока! HeyGuys
+Dialogue: 0:02:08.07, 0:02:10.20, Default, {\c&HE22B8A&}EviI_Foxy{\c&HFFFFFF&}: пока-пока
+Dialogue: 0:02:08.17, 0:02:10.39, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
+Dialogue: 0:02:08.57, 0:02:11.14, Default, {\c&HE22B8A&}Asia_1308{\c&HFFFFFF&}: День, когда Твич упал..... WutFace x⁣4
+Dialogue: 0:02:09.08, 0:02:11.23, Default, {\c&H32CD9A&}hadesai_0{\c&HFFFFFF&}: BSULuv x⁣4
+Dialogue: 0:02:09.70, 0:02:12.13, Default, {\c&H008000&}avstraliets{\c&HFFFFFF&}: PansexualPride PansexualPride
+Dialogue: 0:02:10.31, 0:02:12.50, Default, {\c&H32CD9A&}roomplace{\c&HFFFFFF&}: DinoDance x⁣4
+Dialogue: 0:02:11.00, 0:02:13.28, Default, {\c&H008000&}Thel_Ru{\c&HFFFFFF&}: ночной стрим будет?
+Dialogue: 0:02:12.80, 0:02:14.98, Default, {\c&HFFFFFF&}ivan_rikhter{\c&HFFFFFF&}: bigBossSalut
+Dialogue: 0:02:12.98, 0:02:15.13, Default, {\c&HE22B8A&}serenity_pl{\c&HFFFFFF&}: hinxRocket
+Dialogue: 0:02:13.16, 0:02:15.59, Default, {\c&H008000&}sleeping_zzzzz{\c&HFFFFFF&}: <3 x⁣3 TwitchUnity x⁣5 <3 x⁣6
+Dialogue: 0:02:13.66, 0:02:15.69, Default, {\c&HFF901E&}Gone_Rain{\c&HFFFFFF&}: эх
+Dialogue: 0:02:14.43, 0:02:16.52, Default, {\c&HFF0000&}miranda11902{\c&HFFFFFF&}: Поки..
+Dialogue: 0:02:15.43, 0:02:17.46, Default, {\c&H19B352&}Redragon6969{\c&HFFFFFF&}: bb
+Dialogue: 0:02:15.86, 0:02:18.08, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: bleedPurple x⁣7
+Dialogue: 0:02:19.00, 0:02:21.09, Default, {\c&H0045FF&}Voodguy{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:02:19.69, 0:02:21.93, Default, {\c&HB469FF&}iamcatyoufish{\c&HFFFFFF&}: FeelsLoveMan x⁣6
+Dialogue: 0:02:20.73, 0:02:22.95, Default, {\c&HFF901E&}Befon_Kongo{\c&HFFFFFF&}: TwitchUnity x⁣7
